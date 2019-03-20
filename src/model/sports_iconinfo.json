@@ -1,0 +1,468 @@
+{
+  "陸上競技": {
+    "label": "陸上競技",
+    "path": "/static/character/athletics.png",
+    "children": {
+      "トラック競技": {
+        "label": "トラック競技",
+        "path": "/static/character/athletics.png"
+      }
+    }
+  },
+  "水泳": {
+    "label": "水泳",
+    "path": "/static/character/swimming.png",
+    "children": {
+      "競泳": {
+        "label": "競泳",
+        "path": "/static/character/swimming.png"
+      },
+      "飛込": {
+        "label": "飛込",
+        "path": "/static/character/diving.png"
+      },
+      "水球": {
+        "label": "水球",
+        "path": "/static/character/water-polo.png"
+      },
+      "アーティスティックスイミング": {
+        "label": "アーティスティックスイミング",
+        "path": "/static/character/synchronize.png"
+      },
+      "オープンウォータースイミング": {
+        "label": "オープンウォータースイミング",
+        "path": "/static/character/open-water.png"
+      }
+    }
+  },
+  "サッカー": {
+    "label": "サッカー",
+    "path": "/static/character/soccer.png"
+  },
+  "テニス": {
+    "label": "テニス",
+    "path": "/static/character/tennis.png"
+  },
+  "ボート": {
+    "label": "ボート",
+    "path": "/static/character/boat.png"
+  },
+  "ホッケー": {
+    "label": "ホッケー",
+    "path": "/static/character/hockey.png"
+  },
+  "ボクシング": {
+    "label": "ボクシング",
+    "path": "/static/character/boxing.png"
+  },
+  "バレーボール": {
+    "label": "バレーボール",
+    "path": "/static/character/volleyball.png",
+    "children": {
+      "ビーチバレーボール": {
+        "label": "ビーチバレーボール",
+        "path": "/static/character/beach-volleyball.png"
+      }
+    }
+  },
+  "体操": {
+    "label": "体操",
+    "path": "/static/character/gymnastics.png",
+    "children": {
+      "新体操": {
+        "label": "新体操",
+        "path": "/static/character/rhythmic-gymnastics.png"
+      }
+    }
+  },
+  "バスケットボール": {
+    "label": "バスケットボール",
+    "path": "/static/character/basketball.png"
+  },
+  "レスリング": {
+    "label": "レスリング",
+    "path": "/static/character/wrestling.png"
+  },
+  "セーリング": {
+    "label": "セーリング",
+    "path": "/static/character/sailing.png"
+  },
+  "ウエイトリフティング": {
+    "label": "ウエイトリフティング",
+    "path": "/static/character/weightlifting.png"
+  },
+  "ハンドボール": {
+    "label": "ハンドボール",
+    "path": "/static/character/handball.png"
+  },
+  "自転車": {
+    "label": "自転車",
+    "path": "/static/character/bicycle.png",
+    "children": {
+      "ロード": {
+        "label": "ロード",
+        "path": "/static/character/bicycle.png"
+      }
+    }
+  },
+  "ソフトテニス": {
+    "label": "ソフトテニス",
+    "path": "/static/character/s-tennis.png"
+  },
+  "卓球": {
+    "label": "卓球",
+    "path": "/static/character/tabletennis.png"
+  },
+  "軟式野球": {
+    "label": "軟式野球",
+    "path": "/static/character/r-baseball.png"
+  },
+  "相撲": {
+    "label": "相撲",
+    "path": "/static/character/sumo.png"
+  },
+  "馬術": {
+    "label": "馬術",
+    "path": "/static/character/horsemanship.png"
+  },
+  "フェンシング": {
+    "label": "フェンシング",
+    "path": "/static/character/fencing.png"
+  },
+  "柔道": {
+    "label": "柔道",
+    "path": "/static/character/judo.png"
+  },
+  "ソフトボール": {
+    "label": "ソフトボール",
+    "path": "/static/character/softball.png"
+  },
+  "バドミントン": {
+    "label": "バドミントン",
+    "path": "/static/character/badminton.png"
+  },
+  "弓道": {
+    "label": "弓道",
+    "path": "/static/character/j-archery.png",
+    "children": {
+      "近的": {
+        "label": "近的",
+        "path": "/static/character/j-archery.png"
+      }
+    }
+  },
+  "ライフル射撃": {
+    "label": "ライフル射撃",
+    "path": "/static/character/shooting.png",
+    "children": {
+      "CP以外": {
+        "label": "CP以外",
+        "path": "/static/character/shooting-exceptcp.png"
+      },
+      "CP": {
+        "label": "CP",
+        "path": "/static/character/shooting.png"
+      }
+    }
+  },
+  "剣道": {
+    "label": "剣道",
+    "path": "/static/character/kendo.png"
+  },
+  "ラグビーフットボール": {
+    "label": "ラグビーフットボール",
+    "path": "/static/character/football.png"
+  },
+  "山岳": {
+    "label": "山岳",
+    "path": "/static/character/mountain.png",
+    "children": {
+      "リード": {
+        "label": "リード",
+        "path": "/static/character/mountain.png"
+      }
+    }
+  },
+  "カヌー": {
+    "label": "カヌー",
+    "path": "/static/character/canoe.png",
+    "children": {
+      "スプリント": {
+        "label": "スプリント",
+        "path": "/static/character/canoe.png"
+      },
+      "スラローム": {
+        "label": "スラローム",
+        "path": "/static/character/slalom.png"
+      }
+    }
+  },
+  "アーチェリー": {
+    "label": "アーチェリー",
+    "path": "/static/character/archery.png"
+  },
+  "空手道": {
+    "label": "空手道",
+    "path": "/static/character/karate.png"
+  },
+  "クレー射撃": {
+    "label": "クレー射撃",
+    "path": "/static/character/c-shooting.png"
+  },
+  "なぎなた": {
+    "label": "なぎなた",
+    "path": "/static/character/naginata.png"
+  },
+  "ボウリング": {
+    "label": "ボウリング",
+    "path": "/static/character/bowling.png"
+  },
+  "ゴルフ": {
+    "label": "ゴルフ",
+    "path": "/static/character/golf.png"
+  },
+  "トライアスロン": {
+    "label": "トライアスロン",
+    "path": "/static/character/triathlon.png"
+  },
+  "高等学校野球": {
+    "label": "高等学校野球",
+    "path": "/static/character/h-baseball.png",
+    "children": {
+      "硬式": {
+        "label": "硬式",
+        "path": "/static/character/h-baseball.png"
+      }
+    }
+  },
+  "綱引": {
+    "label": "綱引",
+    "path": "/static/character/tsunahiki.png"
+  },
+  "ゲートボール": {
+    "label": "ゲートボール",
+    "path": "/static/character/d-gateball.png"
+  },
+  "ゲートボール(デモスポ)": {
+    "label": "ゲートボール(デモスポ)",
+    "path": "/static/character/d-gateball.png"
+  },
+  "パワーリフティング": {
+    "label": "パワーリフティング",
+    "path": "/static/character/p-lifting.png"
+  },
+  "グラウンド・ゴルフ": {
+    "label": "グラウンド・ゴルフ",
+    "path": "/static/character/dg-golf.png"
+  },
+  "少林寺拳法": {
+    "label": "少林寺拳法",
+    "path": "/static/character/shorinji.png"
+  },
+  "エスキーテニス": {
+    "label": "エスキーテニス",
+    "path": "/static/character/e-tennis.png"
+  },
+  "スティックリング": {
+    "label": "スティックリング",
+    "path": "/static/character/stickring.png"
+  },
+  "ウオーキング": {
+    "label": "ウオーキング",
+    "path": "/static/character/walking.png"
+  },
+  "ドッジボール": {
+    "label": "ドッジボール",
+    "path": "/static/character/dodgeball.png"
+  },
+  "スポーツチャンバラ": {
+    "label": "スポーツチャンバラ",
+    "path": "/static/character/s-chanbara.png"
+  },
+  "真向法": {
+    "label": "真向法",
+    "path": "/static/character/makkoho.png"
+  },
+  "サイクリング": {
+    "label": "サイクリング",
+    "path": "/static/character/cycling.png"
+  },
+  "パラグライダー": {
+    "label": "パラグライダー",
+    "path": "/static/character/paraglider.png"
+  },
+  "一般体操": {
+    "label": "一般体操",
+    "path": "/static/character/a-gymnastics.png"
+  },
+  "ラージボール卓球": {
+    "label": "ラージボール卓球",
+    "path": "/static/character/l-tabletennis.png"
+  },
+  "インディアカ": {
+    "label": "インディアカ",
+    "path": "/static/character/indiaca.png"
+  },
+  "スポーツ吹矢": {
+    "label": "スポーツ吹矢",
+    "path": "/static/character/s-fukiya.png"
+  },
+  "カヌーポロ": {
+    "label": "カヌーポロ",
+    "path": "/static/character/canoe-polo.png"
+  },
+  "3B体操": {
+    "label": "3B体操",
+    "path": "/static/character/3b-gymnastics.png"
+  },
+  "オリエンテーリング": {
+    "label": "オリエンテーリング",
+    "path": "/static/character/orienteering.png"
+  },
+  "シルバーソフトバレーボール": {
+    "label": "シルバーソフトバレーボール",
+    "path": "/static/character/ss-volleyball.png"
+  },
+  "武術太極拳": {
+    "label": "武術太極拳",
+    "path": "/static/character/taijiquan.png"
+  },
+  "バウンドテニス": {
+    "label": "バウンドテニス",
+    "path": "/static/character/b-tennis.png"
+  },
+  "エアロビック": {
+    "label": "エアロビック",
+    "path": "/static/character/aerobic.png"
+  },
+  "バトン": {
+    "label": "バトン",
+    "path": "/static/character/baton.png"
+  },
+  "ディスクゴルフ": {
+    "label": "ディスクゴルフ",
+    "path": "/static/character/d-golf.png"
+  },
+  "ドッヂビー": {
+    "label": "ドッヂビー",
+    "path": "/static/character/dodgebee.png"
+  },
+  "ミニバスケットボール": {
+    "label": "ミニバスケットボール",
+    "path": "/static/character/m-basketball.png"
+  },
+  "ウッドスポーツ": {
+    "label": "ウッドスポーツ",
+    "path": "/static/character/woodsport.png"
+  },
+  "ソフトバレーボール": {
+    "label": "ソフトバレーボール",
+    "path": "/static/character/s-volleyball.png"
+  },
+  "マレットゴルフ": {
+    "label": "マレットゴルフ",
+    "path": "/static/character/m-golf.png"
+  },
+  "還暦軟式野球": {
+    "label": "還暦軟式野球",
+    "path": "/static/character/sn-baseball.png"
+  },
+  "6人制ホッケー": {
+    "label": "6人制ホッケー",
+    "path": "/static/character/6-hockey.png"
+  },
+  "ペタンク": {
+    "label": "ペタンク",
+    "path": "/static/character/petanque.png"
+  },
+  "ボート（ローイングエルゴメーター）": {
+    "label": "ボート（ローイングエルゴメーター）",
+    "path": "/static/character/r-ergometer.png"
+  },
+  "キッズトライアスロン": {
+    "label": "キッズトライアスロン",
+    "path": "/static/character/k-triathlon.png"
+  },
+  "ビーチラグビー": {
+    "label": "ビーチラグビー",
+    "path": "/static/character/b-football.png"
+  },
+  "ママさんバレー": {
+    "label": "ママさんバレー",
+    "path": "/static/character/m-volleyball.png"
+  },
+  "陸上競技（身・知）": {
+    "label": "陸上競技（身・知）",
+    "path": "/static/character/athletics.png"
+  },
+  "水泳（身・知）": {
+    "label": "水泳（身・知）",
+    "path": "/static/character/swimming.png"
+  },
+  "アーチェリー（身）": {
+    "label": "アーチェリー（身）",
+    "path": "/static/character/archery.png"
+  },
+  "卓球（身・知）（サウンドテーブルテニス（身）を含む）": {
+    "label": "卓球（身・知）（サウンドテーブルテニス（身）を含む）",
+    "path": "/static/character/sound_tabletennis.png",
+    "children": {
+      "卓球（身・知）": {
+        "label": "卓球（身・知）",
+        "path": "/static/character/tabletennis.png"
+      },
+      "サウンドテーブルテニス（身）": {
+        "label": "サウンドテーブルテニス（身）",
+        "path": "/static/character/sound_tabletennis.png"
+      }
+    }
+  },
+  "フライングディスク（身・知）": {
+    "label": "フライングディスク（身・知）",
+    "path": "/static/character/flyingdisc.png"
+  },
+  "ボウリング（知）": {
+    "label": "ボウリング（知）",
+    "path": "/static/character/bowling.png"
+  },
+  "バスケットボール（知）": {
+    "label": "バスケットボール（知）",
+    "path": "/static/character/basketball.png"
+  },
+  "車いすバスケットボール（身）": {
+    "label": "車いすバスケットボール（身）",
+    "path": "/static/character/chair_basketball.png"
+  },
+  "ソフトボール（知）": {
+    "label": "ソフトボール（知）",
+    "path": "/static/character/softball.png"
+  },
+  "グランドソフトボール（身）": {
+    "label": "グランドソフトボール（身）",
+    "path": "/static/character/ground_softball.png"
+  },
+  "バレーボール（身・知・精）": {
+    "label": "バレーボール（身・知・精）",
+    "path": "/static/character/volleyball.png"
+  },
+  "サッカー（知）": {
+    "label": "サッカー（知）",
+    "path": "/static/character/soccer.png"
+  },
+  "フットベースボール（知）": {
+    "label": "フットベースボール（知）",
+    "path": "/static/character/foot_baseball.png"
+  },
+  "卓球バレー（身・知・精）": {
+    "label": "卓球バレー（身・知・精）",
+    "path": "/static/character/table_tennis_volley.png"
+  },
+  "車いすテニス（身）": {
+    "label": "車いすテニス（身）",
+    "path": "/static/character/chair_tennis.png"
+  },
+  "ゲートボール（身）": {
+    "label": "ゲートボール（身）",
+    "path": "/static/character/gateball.png"
+  }
+}
